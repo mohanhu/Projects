@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 - Android Developer with **3+ years of experience**
-- Strong in **Kotlin, MVVM, Jetpack Compose**
+- Strong in **Kotlin, MVVM, Clean Architecture, Jetpack Compose**
 - Hands-on experience with **Firebase, REST APIs, real-time features**
 
 ---
