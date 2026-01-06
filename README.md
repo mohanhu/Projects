@@ -72,11 +72,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanhu&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanhu&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Contact
 - 💼 LinkedIn: *(https://www.linkedin.com/in/mohan-a-dev/)*
-- 📧 Email: *(amohan@pepul.com)*
+- 📧 Email: *(mohan17122k@gmail.com)*
 
