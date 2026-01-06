@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mohan
 
 🚀 **Android Developer** | Kotlin | Jetpack Compose  
-📍 India 
 
 ---
 
