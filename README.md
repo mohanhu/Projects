@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohan
 
 🚀 **Android Developer** | Kotlin | Jetpack Compose  
-📍 India | 🎯 Targeting MNC / Mid-size companies (2026)
+📍 India 
 
 ---
 
