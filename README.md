@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohan
 
-🚀 **Android Developer** | Kotlin | Jetpack Compose  
+🚀 **Android Developer** | Kotlin | Jetpack Compose | MVVM | Clean Architecture
 
 ---
 
@@ -23,11 +23,14 @@
 
 ## 📱 Projects
 
-### 💬 Chat App 
-- Real-time chat application using **Firebase**
-- Implemented **Read / Delivered status**
-- Participant-based message handling
-- Clean MVVM architecture
+### 💬 ConnectTogether (Real-Time Chat App)
+- Modern chat application built using **Jetpack Compose**
+- Real-time messaging powered by **Firebase Realtime Database**
+- Implemented **offline storage with Room**
+- Background synchronization using **WorkManager**
+- Dependency injection with **Hilt**
+- Unit testing using **JUnit and MockK**
+- Designed with **clean architecture and scalable structure**
 
 ---
 
